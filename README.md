@@ -1,7 +1,7 @@
 
 # Youtube Live Audio Streamer.
-## This wonderful build credits, goes to Abhishek Singh.
-## Basically this build will, take the real-time audio from the yt-stream and send it to our backend, and will read it.
+##This wonderful build credits, goes to Abhishek Singh.
+##Basically this build will, take the real-time audio from the yt-stream and send it to our backend, and will read it.
 
 
 ## 🚀 About Me
